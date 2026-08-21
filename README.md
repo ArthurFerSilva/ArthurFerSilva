@@ -55,7 +55,7 @@ Meu objetivo principal é o **aprendizado contínuo**, a evolução constante e 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
----
+
 
 ## 🚀 Philosophy
 
