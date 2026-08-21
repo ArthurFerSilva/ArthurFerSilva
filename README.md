@@ -55,14 +55,6 @@ Meu objetivo principal é o **aprendizado contínuo**, a evolução constante e 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArthurFerSilva&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFerSilva&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🚀 Philosophy
