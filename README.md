@@ -1,16 +1,75 @@
-## Hi there 👋
+# 💻 Olá, eu sou o Arthur Fernandes Silva
 
-<!--
-**ArthurFerSilva/ArthurFerSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 **Estudante/Desenvolvedor Junior | C & C++**    
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Sou estudante do 3º semestre na **Universidade Federal de Uberlândia (UFU)**. Tenho uma base forte em **Backend** com foco em **C** e **C++**, e atualmente sigo aprendendo novas linguagens para atuar também com **Frontend**.
+
+Meu objetivo principal é o **aprendizado contínuo**, a evolução constante e a construção de uma base sólida na engenharia de software e na resolução de problemas complexos.
+
+## 🌐 Onde me encontrar?
+
+<p align="left">
+  <a href="https://github.com/ArthurFerSilva">
+    <img src="https://img.shields.io/badge/GitHub-@Arthurfersilva-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/ffernandes_arthur">
+    <img src="https://img.shields.io/badge/Instagram-@ffernandes_arthur-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 Oque eu Faço?
+
+💻 Desenvolvimento Backend (C & C++)
+
+🌐 Aprendendo Frontend (Foco em Fullstack)
+
+🧩 Estrutura de Dados & Algoritmos
+
+⚙️ Resolução de Problemas & Debugging
+
+🗣️ Foco no Usuário (Atendimento ao cliente)
+
+🤝 Trabalho em Equipe
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+## Aprendendo..
+
+### Backend
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### DevOps & Tools
+
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArthurFerSilva&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFerSilva&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Nossa maior fraqueza está em desistir. A maneira mais certa de ter sucesso é sempre tentar apenas mais uma vez."_ — Thomas Edison
+
+---
+
+🚀 **Status atual:** Aberto a novas oportunidades, colaborações e vagas na área de desenvolvimento.
+
