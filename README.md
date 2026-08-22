@@ -18,6 +18,9 @@ Meu objetivo principal é o **aprendizado contínuo**, a evolução constante e 
   <a href="https://instagram.com/ffernandes_arthur">
     <img src="https://img.shields.io/badge/Instagram-@ffernandes_arthur-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="mailto:arthurfernandes1801@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arthurfernandes1801@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
