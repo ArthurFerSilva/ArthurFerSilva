@@ -58,9 +58,8 @@ Meu objetivo principal é o **aprendizado contínuo**, a evolução constante e 
 ### DevOps & Tools
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gemini,claude&theme=dark" alt="IA Tools" />
-  </a>
+  <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
 </p>
 
 ---
