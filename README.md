@@ -49,12 +49,12 @@ Meu objetivo principal é o **aprendizado contínuo**, a evolução constante e 
 
 ### Backend
 
-### Backend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java&theme=dark" alt="Backend Skills" />
   </a>
 </p>
+
 ### DevOps & Tools
 
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
