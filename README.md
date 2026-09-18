@@ -64,6 +64,35 @@ Meu objetivo principal é o **aprendizado contínuo**, a evolução constante e 
 
 ---
 
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ArthurFerSilva
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#43a047
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---
+
 ## 🚀 Philosophy
 
 > _"Nossa maior fraqueza está em desistir. A maneira mais certa de ter sucesso é sempre tentar apenas mais uma vez."_ — Thomas Edison
