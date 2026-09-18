@@ -62,15 +62,6 @@ Meu objetivo principal é o **aprendizado contínuo**, a evolução constante e 
 
 ---
 
-## 🐍 Minhas Contribuições
-
-<div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game" />
-</div>
-
----
-
-
 ## 🚀 Philosophy
 
 > _"Nossa maior fraqueza está em desistir. A maneira mais certa de ter sucesso é sempre tentar apenas mais uma vez."_ — Thomas Edison
