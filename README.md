@@ -72,3 +72,13 @@ Meu objetivo principal é o **aprendizado contínuo**, a evolução constante e 
 
 🚀 **Status atual:** Aberto a novas oportunidades, colaborações e vagas na área de desenvolvimento.
 
+---
+
+<div align="center">
+  <picture>
+    <img alt="Animação comendo os commits" src="https://raw.githubusercontent.com/ArthurFerSilva/ArthurFerSilva/output/github-snake-dark.svg">
+  </picture>
+</div>
+
+---
+
