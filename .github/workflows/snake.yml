@@ -1,37 +1,40 @@
-name: Generate Animation
+name: Atualizar lobo de contribuicoes
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch:
-  push:
-    branches:
-    - main
+    - cron: "0 */6 * * *"
 
-# Força a permissão de escrita independentemente das definições do repositório
+  workflow_dispatch:
+
 permissions:
   contents: write
 
 jobs:
-  generate:
+  gerar-lobo:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      - name: Checkout repository
+      - name: Baixar repositorio
         uses: actions/checkout@v4
 
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Configurar Python
+        uses: actions/setup-python@v5
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=green&color_bg=#000000
+          python-version: "3.12"
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Gerar animacao
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python scripts/generate_wolf.py
+
+      - name: Salvar animacao
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/wolf-contributions.svg
+
+          git diff --cached --quiet || git commit -m "Atualiza lobo de contribuicoes"
+
+          git push
