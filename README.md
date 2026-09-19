@@ -1,4 +1,6 @@
-# 💻 Olá, eu sou o Arthur Fernandes Silva
+<div align="center">
+  <img src="video_convertido_alta_qualidade(1)(1).gif" alt="Banner do Arthur" width="100%" />
+</div>
 
 🔥 **Estudante/Desenvolvedor Junior | C & C++**    
 🇧🇷 Brazil
