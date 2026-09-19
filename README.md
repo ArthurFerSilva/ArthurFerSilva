@@ -47,9 +47,7 @@ Acredito que a tecnologia pode transformar o mundo e melhorar a qualidade de vid
 
 ### Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Tecnologias e ferramentas" />
-</p>
+Desenvolvendo...
 
 ### Backend
 
