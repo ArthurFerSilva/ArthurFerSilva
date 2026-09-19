@@ -1,47 +1,63 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="900"
-     height="120"
-     viewBox="0 0 900 120">
+     height="100"
+     viewBox="0 0 900 100">
 
-  <rect width="900" height="120" rx="12" fill="#050A07"/>
+  <defs>
+    <clipPath id="typing">
+      <rect x="170" y="28" width="0" height="40">
+        <animate
+          attributeName="width"
+          values="0;0;320;320;0"
+          keyTimes="0;0.10;0.55;0.85;1"
+          dur="5s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
 
-  <text
-    x="450"
-    y="67"
-    text-anchor="middle"
-    font-family="monospace"
-    font-size="30"
-    font-weight="bold"
-    letter-spacing="4"
-    fill="#356B4A">
+  <!-- fundo -->
+  <rect width="900" height="100" fill="#020B08"/>
 
-    WELCOME TO MY GITHUB
-
-    <animate
-      attributeName="opacity"
-      values="0.35;1;0.35"
-      dur="3s"
-      repeatCount="indefinite"/>
+  <!-- símbolo > -->
+  <text x="150"
+        y="60"
+        font-family="monospace"
+        font-size="28"
+        font-weight="bold"
+        fill="#1A8C58">
+    &gt;
   </text>
 
-  <rect
-    x="390"
-    y="88"
-    width="120"
-    height="2"
-    rx="1"
-    fill="#1C4A32">
+  <!-- texto com animação -->
+  <g clip-path="url(#typing)">
+    <text x="175"
+          y="60"
+          font-family="monospace"
+          font-size="28"
+          font-weight="bold"
+          fill="#22B573">
+      welcome to my github
+    </text>
+  </g>
 
-    <animate
-      attributeName="width"
-      values="40;120;40"
-      dur="3s"
-      repeatCount="indefinite"/>
-
+  <!-- cursor piscando -->
+  <rect x="175"
+        y="36"
+        width="12"
+        height="28"
+        rx="1"
+        fill="#36D980">
     <animate
       attributeName="x"
-      values="430;390;430"
-      dur="3s"
+      values="175;175;490;490;175"
+      keyTimes="0;0.10;0.55;0.85;1"
+      dur="5s"
+      repeatCount="indefinite"/>
+    <animate
+      attributeName="opacity"
+      values="1;1;0;0"
+      dur="0.8s"
       repeatCount="indefinite"/>
   </rect>
 
