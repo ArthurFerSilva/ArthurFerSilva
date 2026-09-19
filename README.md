@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./assets/retro-header.svg"
+    width="100%"
+    alt="Welcome to my GitHub Profile"
+  />
+</p>
+
 <div align="center">
   <img src="Lobao.gif" alt="Banner do Arthur" width="1000" />
 </div>
