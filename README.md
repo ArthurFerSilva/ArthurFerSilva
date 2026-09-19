@@ -81,5 +81,9 @@ Meu objetivo principal é o **aprendizado contínuo**, a evolução constante e 
 ## 🐺 Contribuições
 
 <div align="center">
-  <img src="./assets/lobo-commits.gif" alt="Lobo correndo pelos commits" width="100%" />
+  <img
+    src="./assets/wolf-contributions.svg"
+    alt="Lobo correndo pelas contribuições"
+    width="100%"
+  />
 </div>
