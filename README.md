@@ -6,9 +6,11 @@
 
 ## Brazil 🇧🇷
 
-Sou estudante do 3º semestre na **Universidade Federal de Uberlândia (UFU)**. Tenho uma base forte em **Backend** com foco em **C** e **C++**, e atualmente sigo aprendendo novas linguagens para atuar também com **Frontend**.
+Sou estudante do 3º semestre de Sistemas de Informação na Universidade Federal de Uberlândia (UFU). Tenho uma base sólida em desenvolvimento Backend, com conhecimentos em C, C++, C# e Java, e sigo sempre em busca de evolução e novos aprendizados.
 
-Meu objetivo principal é o **aprendizado contínuo**, a evolução constante e a construção de uma base sólida na engenharia de software e na resolução de problemas complexos.
+Meu objetivo é me tornar um desenvolvedor Full Stack, capaz de criar sistemas úteis, seguros e acessíveis, que possam contribuir positivamente para a vida das pessoas, independentemente de suas diferentes realidades, necessidades ou contextos.
+
+Acredito que a tecnologia pode transformar o mundo e melhorar a qualidade de vida. Por isso, busco evoluir constantemente como desenvolvedor, aprimorando minhas habilidades e construindo uma base sólida para desenvolver soluções cada vez mais eficientes, inclusivas e relevantes.
 
 ---
 
