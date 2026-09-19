@@ -2,7 +2,7 @@
   <img src="Lobao.gif" alt="Banner do Arthur" width="1000" />
 </div>
 
-# 🔥 Estudante/Desenvolvedor Junior | C & C++
+# 🍀 Estudante/Desenvolvedor Junior | 
 
 ## Brazil 🇧🇷
 
