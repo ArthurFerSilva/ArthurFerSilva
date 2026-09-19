@@ -45,14 +45,14 @@ Meu objetivo principal é o **aprendizado contínuo**, a evolução constante e 
 
 ### Frontend
 
-## Aprendendo..
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,=6" alt="Tecnologias e ferramentas" />
+</p>
 
 ### Backend
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java&theme=dark" alt="Backend Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,=6" alt="Tecnologias e ferramentas" />
 </p>
 
 ### Tools de IA
