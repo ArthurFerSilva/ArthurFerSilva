@@ -4,7 +4,7 @@
 
 # 🍀 Estudante/Desenvolvedor Junior | 
 
-## Brazil 🇧🇷
+## 🇧🇷 Brazil 💛💚
 
 Sou estudante do 3º semestre de Sistemas de Informação na Universidade Federal de Uberlândia (UFU). Tenho uma base sólida em desenvolvimento Backend, com conhecimentos em C, C++, C# e Java, e sigo sempre em busca de evolução e novos aprendizados.
 
