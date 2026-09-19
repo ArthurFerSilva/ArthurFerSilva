@@ -1,32 +1,21 @@
-<svg width="900" height="140" viewBox="0 0 900 140"
-     xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="120"
+     viewBox="0 0 900 120">
 
-  <defs>
-    <linearGradient id="bg" x1="0" x2="1">
-      <stop offset="0%" stop-color="#030806"/>
-      <stop offset="50%" stop-color="#07120D"/>
-      <stop offset="100%" stop-color="#030806"/>
-    </linearGradient>
+  <rect width="900"
+        height="120"
+        rx="12"
+        fill="#050A07"/>
 
-    <filter id="softGlow">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <rect width="900" height="140" rx="14" fill="url(#bg)"/>
-
-  <text x="450" y="78"
+  <text x="450"
+        y="67"
         text-anchor="middle"
         font-family="monospace"
         font-size="30"
-        font-weight="600"
-        letter-spacing="3"
-        fill="#4F8A68"
-        filter="url(#softGlow)">
+        font-weight="bold"
+        letter-spacing="4"
+        fill="#356B4A">
 
     WELCOME TO MY GITHUB
 
@@ -35,26 +24,26 @@
       values="0.45;1;0.45"
       dur="3s"
       repeatCount="indefinite"/>
-
   </text>
 
-  <rect x="345" y="100"
-        width="210" height="2"
+  <rect x="390"
+        y="88"
+        width="120"
+        height="2"
         rx="1"
-        fill="#1E4D36">
+        fill="#1C4A32">
 
     <animate
       attributeName="width"
-      values="80;210;80"
+      values="40;120;40"
       dur="3s"
       repeatCount="indefinite"/>
 
     <animate
       attributeName="x"
-      values="410;345;410"
+      values="430;390;430"
       dur="3s"
       repeatCount="indefinite"/>
-
   </rect>
 
 </svg>
