@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="100"
+     viewBox="0 0 900 100">
+
+  <defs>
+    <clipPath id="typing">
+      <rect x="170" y="28" width="0" height="40">
+        <animate
+          attributeName="width"
+          values="0;0;320;320;0"
+          keyTimes="0;0.10;0.55;0.85;1"
+          dur="5s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- fundo -->
+  <rect width="900" height="100" fill="#020B08"/>
+
+  <!-- símbolo > -->
+  <text x="150"
+        y="60"
+        font-family="monospace"
+        font-size="28"
+        font-weight="bold"
+        fill="#1A8C58">
+    &gt;
+  </text>
+
+  <!-- texto com animação -->
+  <g clip-path="url(#typing)">
+    <text x="175"
+          y="60"
+          font-family="monospace"
+          font-size="28"
+          font-weight="bold"
+          fill="#22B573">
+      welcome to my github
+    </text>
+  </g>
+
+  <!-- cursor piscando -->
+  <rect x="175"
+        y="36"
+        width="12"
+        height="28"
+        rx="1"
+        fill="#36D980">
+    <animate
+      attributeName="x"
+      values="175;175;490;490;175"
+      keyTimes="0;0.10;0.55;0.85;1"
+      dur="5s"
+      repeatCount="indefinite"/>
+    <animate
+      attributeName="opacity"
+      values="1;1;0;0"
+      dur="0.8s"
+      repeatCount="indefinite"/>
+  </rect>
+
+</svg>
