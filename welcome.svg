@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="120"
+     viewBox="0 0 900 120">
+
+  <rect width="900" height="120" rx="12" fill="#050A07"/>
+
+  <text
+    x="450"
+    y="67"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="30"
+    font-weight="bold"
+    letter-spacing="4"
+    fill="#356B4A">
+
+    WELCOME TO MY GITHUB
+
+    <animate
+      attributeName="opacity"
+      values="0.35;1;0.35"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <rect
+    x="390"
+    y="88"
+    width="120"
+    height="2"
+    rx="1"
+    fill="#1C4A32">
+
+    <animate
+      attributeName="width"
+      values="40;120;40"
+      dur="3s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="x"
+      values="430;390;430"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </rect>
+
+</svg>
