@@ -17,19 +17,18 @@ Acredito que a tecnologia pode transformar o mundo e melhorar a qualidade de vid
 
 ---
 
-## 🌐 Onde me encontrar?
-
+## 🟩 Onde me encontrar?
 <p align="left">
   <a href="https://github.com/ArthurFerSilva">
-    <img src="https://img.shields.io/badge/GitHub-@Arthurfersilva-14532D?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-@Arthurfersilva-050A07?style=for-the-badge&logo=github&logoColor=0B3D2E" />
   </a>
 
   <a href="https://instagram.com/ffernandes_arthur">
-    <img src="https://img.shields.io/badge/Instagram-@ffernandes_arthur-14532D?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@ffernandes_arthur-050A07?style=for-the-badge&logo=instagram&logoColor=0B3D2E" />
   </a>
 
   <a href="mailto:arthurfernandes1801@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arthurfernandes1801@gmail.com-14532D?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-arthurfernandes1801@gmail.com-050A07?style=for-the-badge&logo=gmail&logoColor=0B3D2E" />
   </a>
 </p>
 
