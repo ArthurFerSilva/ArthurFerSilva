@@ -55,13 +55,13 @@ Desenvolvendo...
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java" alt="Tecnologias e ferramentas" />
 </p>
 
-### Tools de IA
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-
-  <img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-</p>
+### Tools and IA
+ <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio&perline=6" alt="Tecnologias e ferramentas" /> </div>
+<div align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+</div>
 
 ---
 
