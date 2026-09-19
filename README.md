@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/welcome.svg" width="100%" alt="Welcome to my GitHub">
+  <img src="welcometo.svg" width="100%" alt="welcome to my github">
 </p>
 <div align="center">
   <img src="Lobao.gif" alt="Banner do Arthur" width="1000" />
